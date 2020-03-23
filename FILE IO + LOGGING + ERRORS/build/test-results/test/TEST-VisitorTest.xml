@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="VisitorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-23T17:03:38" hostname="L1420" time="1.583">
+  <properties/>
+  <testcase name="load()" classname="VisitorTest" time="1.583"/>
+  <system-out><![CDATA[Charlie Sheen
+42
+2020/01/12
+13:02:29
+Questions Answered
+Thandiwe
+Alice Cooper
+22
+2018/11/11
+15:22:12
+Questions Answered
+Thandiwe
+Bob Marley
+12
+2019/11/12
+12:32:19
+Questions Answered
+Thandiwe
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
